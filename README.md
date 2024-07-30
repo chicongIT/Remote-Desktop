@@ -10,12 +10,12 @@
 
 <div style="display: flex; justify-content: space-around;">
 <p align="center">
-  <img src="./Video Demo/Video Demo/Phía-Client.gif" width=300><br/>
+  <img src="./Video Demo/Video Demo/Phía-Client.gif" width=600><br/>
   <i>Client</i>
 </p>
 
 <p align="center">
-  <img src="./Video Demo/Video Demo/Phía-Server.gif" width=300><br/>
+  <img src="./Video Demo/Video Demo/Phía-Server.gif" width=600><br/>
   <i>Server</i>
 </p>
 
